@@ -3,6 +3,11 @@
   "displayName": "SFIPACK",
   "description": "Pack d'extension pour VSC pour SFI",
   "version": "0.0.1",
+  "publisher": "HugoBO",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/HolyHugo/SFIPACK"
+	},
   "engines": {
     "vscode": "^1.71.0"
   },
