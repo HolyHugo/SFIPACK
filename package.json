@@ -1,0 +1,29 @@
+{
+  "name": "SFIPACK",
+  "displayName": "SFIPACK",
+  "description": "Pack d'extension pour VSC pour SFI",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Extension Packs"
+  ],
+  "extensionPack": [ 
+    "bmewburn.vscode-intelephense-client", 
+    "eamodio.gitlens", 
+    "k--kato.intellij-idea-keybindings", 
+    "mikestead.dotenv", 
+    "ms-azuretools.vscode-docker", 
+    "MS-CEINTL.vscode-language-pack-fr", 
+    "ms-vscode-remote.remote-containers", 
+    "ms-vscode-remote.remote-ssh", 
+    "ms-vscode-remote.remote-ssh-edit", 
+    "ms-vscode.live-server", 
+    "PKief.material-icon-theme", 
+    "redhat.vscode-yaml", 
+    "slevesque.shader", 
+    "wayou.vscode-todo-highlight", 
+    "whatwedo.twig"
+  ]
+}
