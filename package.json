@@ -2,7 +2,7 @@
   "name": "SFIPACK",
   "displayName": "SFIPACK",
   "description": "Pack d'extension pour VSC pour SFI",
-  "version": "0.0.2",
+  "version": "0.1.1",
   "publisher": "HugoBO",
 	"repository": {
 		"type": "git",
@@ -15,18 +15,18 @@
     "Extension Packs"
   ],
   "extensionPack": [ 
-    "akamud.vscode-theme-onedark",
-    "ms-vscode-remote.remote-containers",
-    "ms-azuretools.vscode-docker",
-    "mikestead.dotenv" ,
-    "MS-CEINTL.vscode-language-pack-fr",
-    "eamodio.gitlens",
-    "PKief.material-icon-theme",
-    "xdebug.php-debug",
-    "neilbrayfield.php-docblocker",
-    "bmewburn.vscode-intelephense-client",
-    "MehediDracula.php-namespace-resolver",
-    "slevesque.shader",
-    "wayou.vscode-todo-highlight", 
+	"akamud.vscode-theme-onedark",
+	"ms-vscode-remote.remote-containers",
+	"ms-azuretools.vscode-docker",
+	"mikestead.dotenv" ,
+	"MS-CEINTL.vscode-language-pack-fr",
+	"eamodio.gitlens",
+	"PKief.material-icon-theme",
+	"xdebug.php-debug",
+	"neilbrayfield.php-docblocker",
+	"bmewburn.vscode-intelephense-client",
+	"MehediDracula.php-namespace-resolver",
+	"slevesque.shader",
+	"wayou.vscode-todo-highlight"
   ]
 }
